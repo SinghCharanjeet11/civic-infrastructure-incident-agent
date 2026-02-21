@@ -64,6 +64,14 @@ The agent executes a structured **4-step reasoning workflow** on every query:
 
 ---
 
+## 🗣️ Example Questions
+
+- Are there any critical incidents in Zone-3 today?
+- Did the water supply service experience any abnormal behavior?
+- Should this incident be escalated or monitored?
+
+---
+
 ## 🛠️ Tech Stack
 
 | Technology | Role |
